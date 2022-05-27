@@ -15,6 +15,8 @@
   | 8     | [Sort 0 1 2](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)                                                  | [Sort012.cpp](Sort012.cpp)                                                             |
   | 9     | [Move All Negative Elements To End]()                                                                                                          | [MoveAllNegativeElementsToEnd.cpp](MoveAllNegativeElementsToEnd.cpp)                   |
   | 10    | [Union Of Two Arrays](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1#)                                                  | [UnionOfTwoArrays.cpp](UnionOfTwoArrays.cpp)                                           |
-  
+  | 16| [Common Elements](https://practice.geeksforgeeks.org/problems/common-elements1132/1#)|[CommonElements.cpp](Array/CommonElements.cpp)|
+  |17| [First Repeating Element](https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1)| [FirstRepeatingElement.cpp](Array/FirstRepeatingElement.cpp)    |
+  |18| [Non-Repeating Element]([https://practice.geeksforgeeks.org/problems/first-repeating-element4018/1](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1))| [NonRepeatingElement.cpp](Array/NonRepeatingElement.cpp)    |
   
 </details>
