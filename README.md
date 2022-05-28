@@ -1,7 +1,7 @@
 # DSA
 
 <details>
-  <summary>Array</summary>
+  <summary>Arrays</summary>
   
   | S.No. | Question                                                                                                                                       | Solution                                                                                 |
   |-------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
@@ -20,6 +20,20 @@
   | 18    | [Non-Repeating Element](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1)                                               | [NonRepeatingElement.cpp](Array/NonRepeatingElement.cpp)                                 |
   | 19    | [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1)                                      | [SubarraysWithEqual1sAnd0s.cpp](Array/SubarraysWithEqual1sAnd0s.cpp)                     |
   | 20    | [Alternate positive and negative numbers](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1#)                 | [AlternatePositiveAndNegativeNumbers.cpp](Array/AlternatePositiveAndNegativeNumbers.cpp) |
+
+  
+</details>
+
+<details>
+  <summary>Strings</summary>
+  
+  | S.No. | Question                                                                                                 | Solution                                                                   |
+  |-------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+  | 1     | [Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)                            | [PalindromeString.cpp](Strings/PalindromeString.cpp)                       |
+  | 2     | [Vowel and Consonant Substrings!](https://www.interviewbit.com/problems/vowel-and-consonant-substrings/) | [VowelAndConsonantSubstrings.cpp](Strings/VowelAndConsonantSubstrings.cpp) |
+  | 3     | [Remove Consecutive Characters](https://www.interviewbit.com/problems/remove-consecutive-characters/)    | [RemoveConsecutiveCharacters.cpp](Strings/RemoveConsecutiveCharacters.cpp) |
+  | 4     | [Longest Common Prefix](https://www.interviewbit.com/problems/longest-common-prefix/)                    | [LongestCommonPrefix.cpp](Strings/LongestCommonPrefix.cpp)                 |
+  | 5     | [Count And Say](https://www.interviewbit.com/problems/count-and-say/)                                    | [CountAndSay.cpp](Strings/CountAndSay.cpp)                                 |
 
   
 </details>
