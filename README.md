@@ -26,6 +26,7 @@
 
 <details>
   <summary>Strings</summary>
+  
   | S.No. | Question                                                                                                 | Solution                                                                   |
   |-------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
   | 1     | [Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)                            | [PalindromeString.cpp](Strings/PalindromeString.cpp)                       |
