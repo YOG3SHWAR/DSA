@@ -26,7 +26,6 @@
 
 <details>
   <summary>Strings</summary>
-  
   | S.No. | Question                                                                                                 | Solution                                                                   |
   |-------|----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
   | 1     | [Palindrome String](https://www.interviewbit.com/problems/palindrome-string/)                            | [PalindromeString.cpp](Strings/PalindromeString.cpp)                       |
@@ -34,6 +33,8 @@
   | 3     | [Remove Consecutive Characters](https://www.interviewbit.com/problems/remove-consecutive-characters/)    | [RemoveConsecutiveCharacters.cpp](Strings/RemoveConsecutiveCharacters.cpp) |
   | 4     | [Longest Common Prefix](https://www.interviewbit.com/problems/longest-common-prefix/)                    | [LongestCommonPrefix.cpp](Strings/LongestCommonPrefix.cpp)                 |
   | 5     | [Count And Say](https://www.interviewbit.com/problems/count-and-say/)                                    | [CountAndSay.cpp](Strings/CountAndSay.cpp)                                 |
+  | 6     | [Length of Last Word](https://www.interviewbit.com/problems/length-of-last-word/)                        | [LengthofLastWord.cpp](Strings/LengthofLastWord.cpp)                       |
+  | 7     | [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)                          | [ReversetheString.cpp](Strings/ReversetheString.cpp)                       |
+  | 8     | [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)                            | [AmazingSubarrays.cpp](Strings/AmazingSubarrays.cpp)                       |
 
-  
 </details>
