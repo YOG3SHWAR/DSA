@@ -38,5 +38,6 @@
   | 7     | [Reverse the String](https://www.interviewbit.com/problems/reverse-the-string/)                          | [ReversetheString.cpp](Strings/ReversetheString.cpp)                       |
   | 8     | [Amazing Subarrays](https://www.interviewbit.com/problems/amazing-subarrays/)                            | [AmazingSubarrays.cpp](Strings/AmazingSubarrays.cpp)                       |
   | 9     | [Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)                              | [IntegerToRoman.cpp](Strings/IntegerToRoman.cpp)                           |
+  | 10    | [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)                              | [RomanToInteger.cpp](Strings/RomanToInteger.cpp)                           |
   
 </details>
