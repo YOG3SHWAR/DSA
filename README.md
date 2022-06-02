@@ -20,6 +20,8 @@
   | 18    | [Non-Repeating Element](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1)                                               | [NonRepeatingElement.cpp](Array/NonRepeatingElement.cpp)                                 |
   | 19    | [Subarrays with equal 1s and 0s](https://practice.geeksforgeeks.org/problems/non-repeating-element3958/1)                                      | [SubarraysWithEqual1sAnd0s.cpp](Array/SubarraysWithEqual1sAnd0s.cpp)                     |
   | 20    | [Alternate positive and negative numbers](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1#)                 | [AlternatePositiveAndNegativeNumbers.cpp](Array/AlternatePositiveAndNegativeNumbers.cpp) |
+  | 21    | [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1#)                                           | [SubarrayWith0Sum.cpp](Array/SubarrayWith0Sum.cpp)                                       |
+  | 22    | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#)                                              | [KadaneaAlgorithm.cpp](Array/KadaneaAlgorithm.cpp)                                       |
 
   
 </details>
