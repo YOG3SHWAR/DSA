@@ -22,6 +22,7 @@
   | 20    | [Alternate positive and negative numbers](https://practice.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1#)                 | [AlternatePositiveAndNegativeNumbers.cpp](Array/AlternatePositiveAndNegativeNumbers.cpp) |
   | 21    | [Subarray with 0 sum](https://practice.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1#)                                           | [SubarrayWith0Sum.cpp](Array/SubarrayWith0Sum.cpp)                                       |
   | 22    | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#)                                              | [KadaneaAlgorithm.cpp](Array/KadaneaAlgorithm.cpp)                                       |
+  | 22    | [Factorials of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#)                                  | [FactorialsOfLargeNumbers.cpp](Array/FactorialsOfLargeNumbers.cpp)                       |
 
   
 </details>
