@@ -24,6 +24,7 @@
   | 22    | [Kadane's Algorithm](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1#)                                              | [KadaneaAlgorithm.cpp](Array/KadaneaAlgorithm.cpp)                                       |
   | 23    | [Factorials of large numbers](https://practice.geeksforgeeks.org/problems/factorials-of-large-numbers2508/1#)                                  | [FactorialsOfLargeNumbers.cpp](Array/FactorialsOfLargeNumbers.cpp)                       |
   | 24    | [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1/#)                                       | [MaximumProductSubarray.cpp](Array/MaximumProductSubarray.cpp)                           |
+  | 25    | [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)                           | [LongestConsecutiveSubsequence.cpp](Array/LongestConsecutiveSubsequence.cpp)             |
 
   
 </details>
