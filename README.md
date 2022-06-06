@@ -26,6 +26,7 @@
   | 24    | [Maximum Product Subarray](https://practice.geeksforgeeks.org/problems/maximum-product-subarray3604/1/#)                                          | [MaximumProductSubarray.cpp](Array/MaximumProductSubarray.cpp)                                 |
   | 25    | [Longest consecutive subsequence](https://practice.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/1)                              | [LongestConsecutiveSubsequence.cpp](Array/LongestConsecutiveSubsequence.cpp)                   |
   | 26    | [Minimum element in a sorted and rotated array](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1#) | [MinimumElementInASortedAndRotatedArray.cpp](Array/MinimumElementInASortedAndRotatedArray.cpp) |
+  | 27    | [Max sum in the configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1)                                        | [MaxSumInTheConfiguration.cpp](Array/MaxSumInTheConfiguration.cpp)                             |
 
   
 </details>
