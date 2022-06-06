@@ -28,6 +28,7 @@
   | 26    | [Minimum element in a sorted and rotated array](https://practice.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1#) | [MinimumElementInASortedAndRotatedArray.cpp](Array/MinimumElementInASortedAndRotatedArray.cpp) |
   | 27    | [Max sum in the configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1)                                        | [MaxSumInTheConfiguration.cpp](Array/MaxSumInTheConfiguration.cpp)                             |
   | 28    | [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)                                                  | [MinimumPlatforms.cpp](Array/MinimumPlatforms.cpp)                                             |
+  | 29    | [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)                                                | [MinimizeTheHeightsII.cpp](Array/MinimizeTheHeightsII.cpp)                                     |
 
   
 </details>
