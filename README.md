@@ -29,6 +29,7 @@
   | 27    | [Max sum in the configuration](https://practice.geeksforgeeks.org/problems/max-sum-in-the-configuration/1)                                        | [MaxSumInTheConfiguration.cpp](Array/MaxSumInTheConfiguration.cpp)                             |
   | 28    | [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)                                                  | [MinimumPlatforms.cpp](Array/MinimumPlatforms.cpp)                                             |
   | 29    | [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)                                                | [MinimizeTheHeightsII.cpp](Array/MinimizeTheHeightsII.cpp)                                     |
+  | 30    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                 | [TwoSum.cpp](Array/TwoSum.cpp)                                                                 |
 
   
 </details>
