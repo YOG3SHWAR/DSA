@@ -50,5 +50,7 @@
   | 9     | [Integer To Roman](https://www.interviewbit.com/problems/integer-to-roman/)                              | [IntegerToRoman.cpp](Strings/IntegerToRoman.cpp)                           |
   | 10    | [Roman To Integer](https://www.interviewbit.com/problems/roman-to-integer/)                              | [RomanToInteger.cpp](Strings/RomanToInteger.cpp)                           |
   | 11    | [Add Binary Strings](https://www.interviewbit.com/problems/add-binary-strings/)                          | [AddBinaryString.cpp](Strings/AddBinaryString.cpp)                         |
+  | 12    | [Power of 2](https://www.interviewbit.com/problems/power-of-2/)                                          | [PowerOf2.cpp](Strings/PowerOf2.cpp)                                       |
+  | 13    | [Multiply Strings](https://www.interviewbit.com/problems/multiply-strings/)                              | [MultiplyStrings.cpp](Strings/MultiplyStrings.cpp)                         |
   
 </details>
