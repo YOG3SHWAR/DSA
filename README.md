@@ -31,7 +31,6 @@
   | 29    | [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)                                                | [MinimizeTheHeightsII.cpp](Array/MinimizeTheHeightsII.cpp)                                     |
   | 30    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                 | [TwoSum.cpp](Array/TwoSum.cpp)                                                                 |
 
-  
 </details>
 
 <details>
