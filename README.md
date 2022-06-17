@@ -30,6 +30,7 @@
   | 28    | [Minimum Platforms](https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1#)                                                  | [MinimumPlatforms.cpp](Array/MinimumPlatforms.cpp)                                             |
   | 29    | [Minimize the Heights II](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1#)                                                | [MinimizeTheHeightsII.cpp](Array/MinimizeTheHeightsII.cpp)                                     |
   | 30    | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                                                 | [TwoSum.cpp](Array/TwoSum.cpp)                                                                 |
+  | 31    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                                               | [MaximumSubarray.cpp](Array/MaximumSubarray.cpp)                                                                 |
 
 </details>
 
