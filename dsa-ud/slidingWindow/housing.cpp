@@ -37,3 +37,14 @@ int main() {
 	}
 	return 0;
 }
+
+/*
+sample input-
+11
+1 3 2 1 4 1 3 2 1 1 2
+8
+output-
+2 5 
+4 6 
+5 9 
+*/
