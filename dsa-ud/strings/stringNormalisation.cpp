@@ -32,3 +32,7 @@ this is SO MUCH FUN!
 output-
 This Is So Much Fun!
 */
+
+
+// we can also use toUpper or toLower fns
+// char a = toUpper('a');
