@@ -10,6 +10,7 @@ vector<vector<int>> housing(vector<int> arr,int s) {
 	int minEl=INT_MAX;
 	for(int i: arr)
 		minEl=min(minEl, i);
+	minEl=abs(minEl);
 	for(int i=0;i<n;i++)
 		arr[i]+=minEl;
 	while(j<n) {
