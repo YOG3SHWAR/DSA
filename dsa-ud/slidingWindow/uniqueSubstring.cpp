@@ -31,3 +31,12 @@ int main() {
 	cout<<uniqueSubstring(input);
 	return 0;
 }
+
+/*
+sample input-
+abcabed
+output-
+cabed
+
+
+*/
